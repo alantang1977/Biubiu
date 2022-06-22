@@ -172,6 +172,7 @@
 ],
 "caijizhan": [
 {"name":"9E国语","url":"http://vod.9e03.com/lvdou_api.php"},
+{"name":"苹果采集","url":"http://107.150.5.146:39000/maccms10-main/api.php"},
 {"name":"百度资源","url":"https://api.apibdzy.com/api.php"},
 {"name":"酷云77","url":"http://api.kunyu77.com/api.php"},
 {"name":"苹果","url":"http://phoebe.cf/api.php/iptv/vod/"},
